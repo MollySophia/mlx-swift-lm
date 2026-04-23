@@ -103,6 +103,7 @@ LLMRegistry.glm4_9b_4bit          // mlx-community/GLM-4-9B-0414-4bit
 | `bailing_moe` | Bailing MoE |
 | `gpt_oss` | GPT OSS |
 | `minicpm` | MiniCPM |
+| `youtu` | YouTu-LLM |
 
 ## VLM Families
 
